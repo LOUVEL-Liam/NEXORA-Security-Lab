@@ -1,6 +1,6 @@
 # 🌐 NEXORA Security Lab
 
-## 🇫🇷 Présentation
+## Présentation
 
 NEXORA est un projet fictif de cybersécurité inspiré des smart cities et des systèmes urbains connectés.
 
@@ -41,7 +41,8 @@ Slogan :
 
 Ce projet est strictement éducatif et fictif.  
 Aucune infrastructure réelle n’est ciblée ou affectée.
-
+Certaines parties de ce projet ont été réalisées avec l’aide d’outils d’intelligence artificielle, puis relues et adaptées pour garantir leur compréhension.
+La rédaction est assistée par IA en raison d'une dysorthographie.
 ---
 
 ## 📌 Inspiration
