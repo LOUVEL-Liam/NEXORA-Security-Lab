@@ -44,6 +44,7 @@ Aucune infrastructure réelle n’est ciblée ou affectée.
 
 Certaines parties de ce projet ont été réalisées avec l’aide d’outils d’intelligence artificielle, puis relues et adaptées pour garantir leur compréhension.
 La rédaction est assistée par IA en raison d'une dysorthographie.
+
 ---
 
 ## 📌 Inspiration
